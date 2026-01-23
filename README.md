@@ -148,7 +148,6 @@ This application is for **educational purposes only** and should **not** be cons
 
 <img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/23cd6c86-51b1-45b5-b2d2-666bceb7d016" />
 
-
-
+---
 
 ⭐ If you found this project helpful, don’t forget to **star the repository**!
